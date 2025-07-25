@@ -1,4 +1,4 @@
-# Facebook Business SDK for Python
+https://www.threads.net/@jaysonscottheise?invite=0 # Facebook Business SDK for Python
 
 [![PyPI](https://img.shields.io/pypi/v/facebook-business)](https://pypi.org/project/facebook-business/)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facebook/facebook-python-business-sdk/ci.yml)](https://github.com/facebook/facebook-python-business-sdk/actions/workflows/ci.yml)
