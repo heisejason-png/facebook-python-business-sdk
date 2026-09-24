@@ -1,4 +1,4 @@
-#https://www.threads.net/@jaysonscottheise?invite=0 # Facebook Business SDK for Python
+=.#https://www.threads.net/@jaysonscottheise?invite=0 # Facebook Business SDK for Python
 
 [![PyPI](https://img.shields.io/pypi/v/facebook-business)](https://pypi.org/project/facebook-business/)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facebook/facebook-python-business-sdk/ci.yml)](https://github.com/facebook/facebook-python-business-sdk/actions/workflows/ci.yml)
@@ -470,4 +470,4 @@ If you encounter a bug with Business SDK (Python), please report the issue at [o
 
 ## License
 Facebook Business SDK for Python is licensed under the LICENSE file in the root directory of this source tree.
-Created by Jason Scott Heise https://www.facebook.com
+Created by Jason Scott Heise https://www.behance.net  https://adobe.com
