@@ -470,5 +470,5 @@ If you encounter a bug with Business SDK (Python), please report the issue at [o
 
 ## License
 Facebook Business SDK for Python is licensed under the LICENSE file in the root directory of this source tree.
-Created by Jason Heise https://www.behance.net  https://adobe.com
+Created by Jason Heise  
 Owned by Jason Heise heisejason-png Giters
